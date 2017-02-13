@@ -3,14 +3,13 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/mods/algaeore.matmod": [
-        "/Description"
+        "/description"
       ],
       "tiles/mods/junkmod.matmod": [
-        "/Description"
+        "/description"
       ]
     },
     "Texts": {
-      "Chs": "海藻",
       "Eng": "algae"
     }
   }
